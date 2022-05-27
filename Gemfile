@@ -7,7 +7,7 @@ gem "httparty"
 gem "json-jwt"
 gem 'pg', '~> 0.21.0'
 gem 'rails', '~> 6.0.3.6'
-gem 'rack', '~> 2.1'
+gem 'rack', '~> 2.2'
 gem 'browser', '~> 2.6.1'
 gem 'json_schemer'
 gem 'seedbank', '~> 0.3.0' # Used for seeding different environments
